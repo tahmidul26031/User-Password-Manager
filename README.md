@@ -18,6 +18,3 @@ A simple Windows tool to change or remove the current user's password.
 ### Notes
 - Works only with local Windows accounts
 - Source code is included
-
-### Disclaimer
-Use responsibly. Removing a password makes your account less secure.
