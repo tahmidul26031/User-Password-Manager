@@ -3,10 +3,10 @@
 A simple Windows tool to change or remove the current user's password.
 
 ### Features
+- Lightweight under 0.2MB
 - Clean graphical interface
 - Change password or completely remove it
 - Runs with Administrator rights
-- Lightweight
 
 ### How to use
 1. Download `PasswordChanger.exe`
