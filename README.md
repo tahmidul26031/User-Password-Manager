@@ -1,4 +1,4 @@
-# Password Manager
+# Password Changer
 
 A simple Windows tool to change or remove the current user's password.
 
