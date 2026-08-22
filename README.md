@@ -1,6 +1,6 @@
 # Password Changer
 
-A simple Windows tool to change or remove the current user's password.
+A simple Windows tool to change current user's password.
 
 ### Features
 - Lightweight under 0.2MB
@@ -16,5 +16,5 @@ A simple Windows tool to change or remove the current user's password.
 5. Click **Apply**
 
 ### Notes
-- Works only with local Windows accounts
+- Works only with local Windows accounts, not windows hello pin
 - Source code is included
