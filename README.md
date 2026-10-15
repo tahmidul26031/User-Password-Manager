@@ -16,5 +16,5 @@ A simple Windows tool to change current user's password.
 5. Click **Apply**
 
 ### Notes
-- Works only with local Windows accounts, not windows hello pin
+- Works only with User Account
 - Source code is included
