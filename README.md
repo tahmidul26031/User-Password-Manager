@@ -1,4 +1,4 @@
-# Password Changer PRO
+# Password Changer
 
 A professional, lightweight, and modern Windows tool to change the current user's credentials instantly without knowing their old password. 
 
