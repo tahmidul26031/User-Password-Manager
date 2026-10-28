@@ -14,7 +14,7 @@ Now updated with a secure dual-panel wizard interface, background stealth execut
 - **Startup Integrity Pathing:** Auto-detects if launched natively inside the Windows Startup routine folder to calibrate safe system execution environments seamlessly.
 
 ### Features
-- **Ultra-Lightweight:** Under 0.2MB in storage imprint.
+- **Ultra-Lightweight:** Just about 0.2MB in storage imprint.
 - **Modern Fluent UI/UX:** Built with a custom clean off-white palette, smooth flat components, high contrast typography, and premium corporate padding footprints.
 - **Admin-Level Execution Safeguards:** Wraps low-level native processes cleanly with comprehensive structural `.NET` exception tracing.
 - **Zero Configuration:** Drop it anywhere, execute instantly, single file layout.
