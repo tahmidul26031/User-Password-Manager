@@ -27,5 +27,6 @@ Now updated with a secure dual-panel wizard interface, background stealth execut
 5. **Step 2:** Verify your sequence by re-typing it into the confirmation field and click **Update System Entry**.
 
 ### Notes
+ - Windows defender and virustotal might detect many positives but is usually false possitive as it changed user password with "net user" command, just check the main .ps1 file (code source) to view the code without downloading the .zip file which might be flagged by windows security
 - Operates strictly on local environment User Accounts.
 - Full un-compiled source code is included natively in the production payload repository.
